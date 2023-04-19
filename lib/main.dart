@@ -4,6 +4,7 @@ import 'package:pie_chart/main_bloc/main_bloc.dart';
 import 'package:pie_chart/pages/details_page.dart';
 import 'package:pie_chart/pages/main_page.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
